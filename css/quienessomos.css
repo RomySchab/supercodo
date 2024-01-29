@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+#contentqs{
+    width: 90%;
+    display: grid;    
+    grid-template-columns: 4fr;
+    grid-template-areas: "caro estefi ";
+    grid-template-areas: "romy renzo";
+    gap: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-block: 30px;
+}
+
+.quienes{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+}
+
+.quienes .caro, .estefi, .romy, .renzo{
+    grid-area: caro, estefi, romy, renzo;
+    border: 1px solid #5271FF;
+    padding-block: 20px;
+}
+
+.quienes img{
+    width: 75%;
+    margin: 10px;
+    border: 1px solid #5271FF;
+}
+
+.quienes p{
+    font-size: 15px;
+    text-align: start;
+    color: #444;
+    margin-inline: 20px;
+    margin-block: 10px;
+}
+
+.quienes b{
+    font-size: 17px;
+}
+
+@media screen and (max-width: 550px){
+    #contentqs{
+        grid-template-columns: 2fr;
+
+    }
+    .quienes{        
+        grid-template-columns: repeat(2,1fr);
+        
+    }
+}

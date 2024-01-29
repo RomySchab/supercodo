@@ -1,0 +1,340 @@
+{
+"productos":[
+        {
+        "id":1,
+        "descripcion": "Lenteja La Española 400gr",
+        "precio": 492.63,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/01 lenteja la española.webp"
+        },
+        {
+        "id":2,
+        "descripcion":"Arroz Largo Fino Primor 1kg",
+        "precio": 587.98,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/02 arroz primor.webp"
+        },
+        {
+        "id":3,
+        "descripcion":"Arroz Gallo Largo Fino 500gr",
+        "precio": 328.27,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/03 arroz gallo fino.webp"
+        },
+        {
+        "id":4,
+        "descripcion":"Arroz Dos Hermanos 1kg",
+        "precio": 855.77,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/04 arroz dos hermanos.webp"
+        },
+        {
+        "id":5,
+        "descripcion":"Lentejas Egran 400gr",
+        "precio": 595.73,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/05 lentejas egran.webp"
+        },
+        {
+        "id":6,
+        "descripcion":"Garbanzo Egran 400gr",
+        "precio": 410.65,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/06 garbanzo egran.webp"
+        },
+        {
+        "id":7,
+        "descripcion":"Soja Egran 500gr",
+        "precio": 410.85,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/07 soja egran.webp"
+        },
+        {
+        "id":8,
+        "descripcion":"Trigo Egran 500gr",
+        "precio": 410.45,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/08 trigo burgol.webp"
+        },
+        {
+        "id":9,
+        "descripcion":"Atun La Campagnola 170gr",
+        "precio": 1430.19,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/09 atun.webp"
+        },
+        {
+        "id":10,
+        "descripcion":"Paté De Foie Swift 90gr",
+        "precio": 236.49,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/10 pate.webp"
+        },
+        {
+        "id":11,
+        "descripcion":"Tomate Perita Marolio 350gr",
+        "precio": 270.57,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/11 perita.webp"
+        },
+        {
+        "id":12,
+        "descripcion":"Salsa Arcor Pizza 340gr",
+        "precio": 266.29,
+        "seccion":"almacen",
+        "imagen": "./images/almacen/12 salsa.webp"
+        },
+        {
+        "id":13,
+        "descripcion":"Agua Mineral Baja en Sodio Glaciar 2Lt",
+        "precio": 309.52,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/01aguaGlaciar2l.webp"
+        },
+        {
+        "id":14,
+        "descripcion":"Agua Mineral Eco de los Andes 2Lt",
+        "precio": 334.87,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/02aguaMineral-EcodelosAndes2L.webp"
+        },
+        {
+        "id":15,
+        "descripcion":"Agua Mineral Villavicencio 2Lt",
+        "precio": 309.85,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/03aguaMineralVillavicencio2L.webp"
+        },
+        {
+        "id":16,
+        "descripcion":"Agua Nestle Pureza Vital 2.25Lt",
+        "precio": 310.16,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/04aguaMineralNestle2,25L.webp"
+        },
+        {
+        "id":17,
+        "descripcion":"Gaseosa Coca Cola Regular 2.25Lt",
+        "precio": 796.93,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/05gaseosaCocaCola2,25L.webp"
+        },
+        {
+        "id":18,
+        "descripcion":"Gaseosa Sprite Lima Limon 2.25Lt",
+        "precio": 789.31,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/06gaseosaSprite0,25L.webp"
+        },
+        {
+        "id":19,
+        "descripcion":"Gaseosa Fanta Naranja 2.25Lt",
+        "precio": 790.80,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/07gaseosaFantaNaranja2,25L.webp"
+        },
+        {
+        "id":20,
+        "descripcion":"Gaseosa Cunnington Cola 2.25Lt",
+        "precio": 431.60,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/08gaseosaCunnington-cola2,25L.webp"
+        },
+        {
+        "id":21,
+        "descripcion":"Jugo en Polvo Clight Naranja",
+        "precio": 104.46,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/09 jugo clight.webp"
+        },
+        {
+        "id":22,
+        "descripcion":"Jugo Citric Naranja Valencia 1.50Lt",
+        "precio": 1402.88,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/10 jugo de naranja Citric1,5l.webp"
+        },
+        {
+        "id":23,
+        "descripcion":"Jugo Citric Pomelo con Pulpa 1Lt",
+        "precio": 870.09,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/11Jugo Citric Pomelo 1l.webp"
+        },
+        {
+        "id":24,
+        "descripcion":"Jugo Citric Naranja-Durazno 1Lt",
+        "precio": 870.09,
+        "seccion":"bebidas",
+        "imagen": "./images/bebidas/12Jugo Citric Nar-durazno 1l.webp"
+        },
+        {
+        "id":25,
+        "descripcion":"Zanahoria Elegida",
+        "precio": 299.00,
+        "seccion":"verduras",
+        "imagen": "./images/frutasyverduras/01 zanahoria.webp"
+        },
+        {
+        "id":26,
+        "descripcion":"Papa Cepillada",
+        "precio": 999.00,
+        "seccion":"verduras",
+        "imagen": "./images/frutasyverduras/02 papa.webp"
+        },
+        {
+        "id":27,
+        "descripcion":"Pimiento Rojo",
+        "precio": 2499.00,
+        "seccion":"verduras",
+        "imagen": "./images/frutasyverduras/03 pimiento.webp"
+        },
+        {
+        "id":28,
+        "descripcion":"Lechuga Manteca",
+        "precio": 599.00,
+        "seccion":"verduras",
+        "imagen": "./images/frutasyverduras/04 lechuga.webp"
+        },
+        {
+        "id":29,
+        "descripcion":"Manzana Deliciosa",
+        "precio": 799.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/05 manzana.webp"
+        },
+        {
+        "id":30,
+        "descripcion":"Banana Ecuador",
+        "precio": 739.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/06 banana.webp"
+        },
+        {
+        "id":31,
+        "descripcion":"Uva Negra",
+        "precio": 3990.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/07 uva.webp"
+        },
+        {
+        "id":32,
+        "descripcion":"Naranja Ombligo",
+        "precio": 599.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/08 naranja.webp"
+        },
+        {
+        "id":33,
+        "descripcion":"Palta",
+        "precio": 499.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/09 palta.webp"
+        },
+        {
+        "id":34,
+        "descripcion":"Frutilla",
+        "precio": 1990.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/10 frutilla.webp"
+        },
+        {
+        "id":35,
+        "descripcion":"Kiwi",
+        "precio": 3990.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/11 kiwi.webp"
+        },
+        {
+        "id":36,
+        "descripcion":"Limón",
+        "precio": 349.00,
+        "seccion":"frutas",
+        "imagen": "./images/frutasyverduras/12 limon.webp"
+        },
+        {
+        "id":37,
+        "descripcion":"Lavavajillas Magistral Ultra Limón 500ml",
+        "precio": 944.76,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/01 detergente.webp"
+        },
+        {
+        "id":38,
+        "descripcion":"Lavandina Ayudin Clasica Pura 2Lt",
+        "precio": 564.27,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/02 lavandina.webp"
+        },
+        {
+        "id":39,
+        "descripcion":"Fibra Esponja Mortimer Cuadriculada",
+        "precio": 112.06,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/03 esponja.webp"
+        },
+        {
+        "id":40,
+        "descripcion":"Paño Rejilla Multiuso Banderita 42gr",
+        "precio": 609.95,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/04 rejilla.webp"
+        },
+        {
+        "id":41,
+        "descripcion":"Jabon Liquido Ropa Skip 3Lt",
+        "precio": 3155.97,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/05 skip.webp"
+        },
+        {
+        "id":42,
+        "descripcion":"Suavizante Vivere Clasico 3Lt",
+        "precio": 2427.66,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/06 vivere.webp"
+        },
+        {
+        "id":43,
+        "descripcion":"Escoba Gauchita Bombai Bicolor",
+        "precio": 2400.13,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/07 escoba.webp"
+        },
+        {
+        "id":44,
+        "descripcion":"Trapo de Piso Media Naranja",
+        "precio": 1196.70,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/08 trapo.webp"
+        },
+        {
+        "id":45,
+        "descripcion":"Desinfectante Ambiente Lysoform Aire Montaña 380ml",
+        "precio": 1011.58,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/09 desinfectante.webp"
+        },
+        {
+        "id":46,
+        "descripcion":"Rollo de Cocina Elite Doble Hoja 60 Paños x 3 unidades",
+        "precio": 591.25,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/10 rollo.webp"
+        },
+        {
+        "id":47,
+        "descripcion":"Jabon en Barra Vanish Quitamanchas Blanqueador 75gr",
+        "precio": 465.07,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/11 jabon.webp"
+        },    
+        {
+        "id":48,
+        "descripcion":"Insecticida Raid Mata Moscas y Mosquitos Aerosol 360ml",
+        "precio": 894.40,
+        "seccion":"limpieza",
+        "imagen": "./images/limpieza/12 insecticida.webp"
+        }  
+    ]
+}       

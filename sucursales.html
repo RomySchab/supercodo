@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Codo</title>
+    <link rel="shortcut icon" href="./images/header/minilogo.png" type="image/x-icon">
+    <link rel="stylesheet" href="./css/headeryfooter.css">
+    <link rel="stylesheet" href="./css/sucursales.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Gabarito:wght@400;700&display=swap" rel="stylesheet">  
+</head>
+<body>
+    <header>
+
+    </header>
+    <main>
+        <div id="locale">
+            <div class="map">
+                <div v-show="mapa1_visible"><mapa1></mapa1></div>
+                <div v-show="mapa2_visible"><mapa2></mapa2></div>
+                <div v-show="mapa3_visible"><mapa3></mapa3></div>
+            </div>
+
+            <div class="mapbutton">
+                <button v-on:click="show('mapa1')">
+                    <p><b>Ubicación:</b> Las Palmas del Pilar</p>
+                    <p><b>Dirección:</b> Las Magnolias 698, B1629 Pilar, Provincia de Buenos Aires</p>
+                    <p><b>Telefono:</b> 0810-999-5862</p>
+                    <p><b>Horarios:</b> Lunes a Domingo de 08:00hs a 22:00hs</p>
+                </button>
+                <button v-on:click="show('mapa2')">
+                    <p><b>Ubicación:</b> Portal Palermo</p>
+                    <p><b>Dirección:</b> Av. Int. Bullrich 345, C1425 CABA</p>
+                    <p><b>Telefono:</b> 0810-999-5862</p>
+                    <p><b>Horarios:</b> Lunes a Domingo de 08:00hs a 21:30hs</p>
+                </button>                
+                <button v-on:click="show('mapa3')">
+                    <p><b>Ubicación:</b> Unicenter</p>
+                    <p><b>Dirección:</b> Paraná 3745, B1640 San Isidro, Provincia de Buenos Aires</p>
+                    <p><b>Telefono:</b> 0810-999-5862</p>
+                    <p><b>Horarios:</b> Lunes a Domingo de 08:00hs a 21:30hs</p>
+                </button>
+            </div>
+        </div>
+    </main>
+    <footer>        
+        
+    </footer>
+        
+    <script src="https://unpkg.com/vue@next"></script>
+    <script src="./js/headeryfooter.js"></script>    
+    <script src="./js/sucursales.js"></script>
+    <script src="./js/scripsucursales.js"></script>      
+</body>
+</html>
+
